@@ -1,0 +1,13 @@
+body {
+  /* Set background image */
+  background-image: url("./assets/images/background.jpg");
+  /* Set background image size to cover entire viewport */
+  background-size: cover;
+  /* Center the background image */
+  background-position: center;
+  /* Ensure text is readable by setting a light background color */
+  background-color: rgba(255, 255, 255, 0.8); /* Adjust opacity as needed */
+  /* Set background attachment to fixed to prevent scrolling */
+  background-attachment: fixed;
+  /* Add more styles as needed */
+}
